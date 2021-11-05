@@ -1,0 +1,9 @@
+main: de.rexlUnity.Main.Main
+version: 1.0
+name: rexlUnity
+author: rexlNico
+commands:
+     setJump:
+     setspawn:
+     spawn:
+     setYTBox:

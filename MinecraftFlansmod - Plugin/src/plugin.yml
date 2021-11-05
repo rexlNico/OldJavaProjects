@@ -1,0 +1,6 @@
+main: de.rexlNico.Main.Main
+version: 1.0
+name: FlansPlugin
+
+commands:
+     strike:

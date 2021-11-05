@@ -1,0 +1,17 @@
+name: SkyPvP-System
+author: buugie15
+version: 1
+main: de.buugie15.Main.Main
+
+commands:
+  enderchest:
+  heal:
+  gamemode:
+    aliases: [gm,gmc,gms]
+  msg:
+  broadcast:
+    aliases: [br]
+  chatclear:
+    aliases: [clearchat,cc]
+  fly:
+  vanish:

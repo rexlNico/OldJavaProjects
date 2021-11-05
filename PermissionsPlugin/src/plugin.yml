@@ -1,0 +1,6 @@
+main: de.rexlNico.perms.Main.Main
+version: 1.0
+name: Perms
+
+commands:
+    perms:

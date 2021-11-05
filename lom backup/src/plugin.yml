@@ -1,0 +1,8 @@
+main: de.rexlNico.GAME.Main.Main
+version: 1.0
+name: GAME
+
+commands:
+     start:
+     setspawn:
+     setblock:

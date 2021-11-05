@@ -1,0 +1,6 @@
+main: de.rexlNico.Mafia.Main.Main
+version: 8.8
+name: MafiaSystem
+
+commands:
+     mafia:

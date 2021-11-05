@@ -1,0 +1,7 @@
+name: Party-Plugin
+version: 1.0
+author: rexlNico
+main: de.rexlNico.Main.Main
+
+commands:
+  party:
